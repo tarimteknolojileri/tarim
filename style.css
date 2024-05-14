@@ -1,0 +1,24 @@
+.ortala h1,h2,h3,h4,h5,h6,p{
+    text-align: center;
+}
+.ortala img{
+    width:85%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  
+}
+.renk1{
+  background-color: bisque;
+}
+.renk2{
+  background-color: rgb(253, 219, 177);
+}
+
+.a{
+  display: flex;
+  justify-content: center; /* Yatayda ortalama */
+  align-items: center; /* Dikeyde ortalama */
+  width: 80%;
+}
